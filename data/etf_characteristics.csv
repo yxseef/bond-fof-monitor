@@ -1,0 +1,9 @@
+ticker,sleeve,duration,spread_duration,convexity,hedged,as_of
+SHY,Short Treasuries,,,,,
+IEF,Intermediate Treasuries,,,,,
+TLT,Long Treasuries,,,,,
+TIP,Inflation-linked,,,,,
+LQD,Investment grade credit,,,,,
+HYG,High yield credit,,,,,
+EMB,Emerging markets USD,,,,,
+BNDX,International (USD-hedged),,,,,

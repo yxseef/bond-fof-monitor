@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+requests
+statsmodels
+plotly
+streamlit
+matplotlib
+reportlab
+openpyxl
+pytest
